@@ -1,0 +1,15 @@
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/homework_1.csproj.AssemblyReference.cache
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/homework_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/homework_1.AssemblyInfoInputs.cache
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/homework_1.AssemblyInfo.cs
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/homework_1.csproj.CoreCompileInputs.cache
+/Users/adorablesharpen/Projects/homework_1/homework_1/bin/Debug/net7.0/homework_1
+/Users/adorablesharpen/Projects/homework_1/homework_1/bin/Debug/net7.0/homework_1.deps.json
+/Users/adorablesharpen/Projects/homework_1/homework_1/bin/Debug/net7.0/homework_1.runtimeconfig.json
+/Users/adorablesharpen/Projects/homework_1/homework_1/bin/Debug/net7.0/homework_1.dll
+/Users/adorablesharpen/Projects/homework_1/homework_1/bin/Debug/net7.0/homework_1.pdb
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/homework_1.dll
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/refint/homework_1.dll
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/homework_1.pdb
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/homework_1.genruntimeconfig.cache
+/Users/adorablesharpen/Projects/homework_1/homework_1/obj/Debug/net7.0/ref/homework_1.dll
